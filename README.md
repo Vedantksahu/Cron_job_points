@@ -205,6 +205,3 @@ Restart Service Automatically
 */10 * * * * systemctl restart nginx   
 
 
-
-  
-10.  
